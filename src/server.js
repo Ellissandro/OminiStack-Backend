@@ -7,7 +7,7 @@ const path = require('path');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://elissandros:gta665544@oministack-k2so4.mongodb.net/semana09?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://key', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
